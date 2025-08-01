@@ -1,5 +1,5 @@
 # CV
-**Computer Vision (CV-442)** EPFL, Spring 2025
+**Computer Vision (CS-442)** EPFL, Spring 2025
 
 - EX1: Library Tutorials
 - EX2: Convolution, Filtering, and Gradients
